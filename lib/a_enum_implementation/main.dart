@@ -1,6 +1,6 @@
+import 'package:playground_solid_principles/a_enum_implementation/src/otp_reason.dart';
 import 'package:playground_solid_principles/core/helpers.dart';
 import 'package:playground_solid_principles/core/otp_results_models.dart';
-import 'package:playground_solid_principles/open_closed_principle/a_enum_implementation/src/otp_reason.dart';
 
 main() {
   onTap();

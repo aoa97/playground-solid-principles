@@ -1,6 +1,6 @@
+import 'package:playground_solid_principles/b_class_implementation/src/otp_reason.dart';
 import 'package:playground_solid_principles/core/helpers.dart';
 import 'package:playground_solid_principles/core/otp_results_models.dart';
-import 'package:playground_solid_principles/open_closed_principle/b_class_implementation/src/otp_reason.dart';
 
 main() {
   onTap();
